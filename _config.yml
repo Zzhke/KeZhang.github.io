@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Ke Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "growing & glowing"
+  bio              : "growing & glowing \n Huazhong Agricultural University"
   location         : "Wuhan China"
-  employer         : "HZAU"
+  employer         : # "HZAU"
   uri              : # URL
   email            : "keezhang@webmail.hzau.edu.cn" 
 
