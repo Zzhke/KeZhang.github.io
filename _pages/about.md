@@ -13,4 +13,4 @@ I am a master candidate of [College of Informatics](https://coi.hzau.edu.cn/) in
 
 **Conference**
 
-Ke Zhang, Ganyu Wang, Han Li, Yulong Wang, Hong Chen, and Bin Gu. Asynchronous Vertical Federated Learning for Kernelized AUC Maximization, In International Conference on Knowledge Discovery & Data Mining (KDD), 2024.
+**Ke Zhang**, Ganyu Wang, Han Li, Yulong Wang, Hong Chen, and Bin Gu. Asynchronous Vertical Federated Learning for Kernelized AUC Maximization, In *International Conference on Knowledge Discovery & Data Mining* (KDD), 2024.
